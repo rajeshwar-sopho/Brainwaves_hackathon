@@ -1,0 +1,12 @@
+NLP
+
+* tokens
+* removing stopwords and punctuations
+* steamer
+* lemitizer
+* pos taging
+* ner
+* bag of words
+* ner
+* count vectorizer
+* tf idf
